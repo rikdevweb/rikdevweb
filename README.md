@@ -10,32 +10,38 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-<!-- LIVE SYSTEM BADGES -->
+<!-- LIVE SYSTEM BADGES & SPOTIFY STATUS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rikdevweb&style=for-the-badge&color=00ff41&label=SYSTEM+VISITORS" alt="Visitor Count" />
   <img src="https://img.shields.io/badge/SECURITY-LEVEL%3A_MAXIMUM-00FF41?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Security" />
   <img src="https://img.shields.io/badge/NETWORK-ENCRYPTED-00FF41?style=for-the-badge&logo=wireguard&logoColor=black" alt="Network" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=discord&logoColor=black" alt="Status" />
+</p>
+
+<!-- GANTI "YOUR_SPOTIFY_ID" DENGAN ID SPOTIFY KAMU JIKA INGIN MENGGUNAKAN FITUR INI, JIKA TIDAK, HAPUS BARIS INI -->
+<p align="center">
+  <a href="https://spotify.com"><img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novnc&bar_color=00ff41&bar_color_cover=false" alt="Spotify Live Status" /></a>
 </p>
 <br>
 
-<!-- ADVANCED TERMINAL SIMULATOR -->
+<!-- ADVANCED TERMINAL SIMULATOR WITH DIRECTORY TREE -->
   <table border="1" bordercolor="#00FF41" style="background-color: #0d1117; color: #00FF41; width: 95%; text-align: left; font-family: 'Courier New', Courier, monospace; border-radius: 12px; box-shadow: 0 0 25px rgba(0, 255, 65, 0.3);">
     <tr>
       <td style="padding: 25px;">
         <p style="color: #8b949e; margin-bottom: 5px;"><code>// system_exec --init /home/rikdevweb/profile.sh</code></p>
-        <p><code>[root@subang-mainframe:~]# ./neofetch --cyber-mode</code></p>
-        <br>
+        <p><code>[root@subang-mainframe:~]# whoami && tree .</code></p>
         <p><b>👤 USERNAME_     :</b> Rik (Pelajar & Tech Enthusiast)</p>
-        <p><b>📍 LOCATION_     :</b> Subang, Jawa Barat 🇮🇩 (Proxy: Active)</p>
-        <p><b>💻 EXPERTISE_    :</b> Web Development, Front-End Design, UI/UX</p>
-        <p><b>🔒 SUB-ROUTINE_  :</b> Penetration Testing, Bug Bounty, OSINT</p>
+        <p><b>📍 LOCATION_     :</b> Subang, Jawa Barat 🇮🇩</p>
         <p><b>👾 BROADCAST_    :</b> Content Creator TikTok (<a href="https://tiktok.com/@himarusetup" style="color: #00FF41; text-decoration: underline;">@himarusetup</a>)</p>
         <br>
-        <p><code>[root@subang-mainframe:~]# cat /var/log/current_missions.log</code></p>
-        <p>► 🔭 <b>EXECUTING:</b> Advanced React.js & Web App Architecture</p>
-        <p>► 🌱 <b>UPGRADING:</b> Ethical Hacking & Network Vulnerabilities</p>
-        <p>► 👯 <b>PING_ME:</b> Open Source Projects & Front-End Collaboration</p>
+        <p style="color: #C9D1D9;">
+        ├── 📁 <b>skills</b><br>
+        │   ├── 📄 web_development.exe<br>
+        │   └── 📄 ui_ux_design.dll<br>
+        ├── 📁 <b>security</b><br>
+        │   ├── ⚙️ penetration_testing.sh<br>
+        │   └── ⚙️ bug_bounty_recon.py<br>
+        └── 🔒 <b>secrets.env</b> <span style="color: #ff7b72;">[ACCESS DENIED]</span>
+        </p>
         <br>
         <p style="color: #58a6ff; font-style: italic;">> "[!] WARNING: Learn to build it securely, then master how to break it ethically."</p>
       </td>
@@ -45,7 +51,6 @@
 
 <!-- COMPREHENSIVE TECH ARSENAL -->
 <h3>⚙️ :: TECH ARSENAL & CYBER WEAPONS :: ⚙️</h3>
-<p>Kumpulan *tools*, bahasa, dan *environment* yang ada di dalam *database* saya:</p>
 <br>
 
 <b>🌐 FRONT-END & DESIGN PROTOCOLS</b><br><br>
@@ -63,51 +68,33 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 <br>
 
-<!-- ANIMATED ACTIVITY GRAPH (NEW) -->
-<h3>📈 :: NETWORK ACTIVITY & CONTRIBUTIONS :: 📈</h3>
-<a href="https://github.com/rikdevweb">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rikdevweb&theme=tokyo-night&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true&v=3" width="95%" alt="Activity Graph" />
-</a>
+<!-- SNAKE ANIMATION (MEMBUTUHKAN GITHUB ACTIONS) -->
+<h3>🐍 :: CODE EXECUTION PATH (SNAKE) :: 🐍</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rikdevweb/rikdevweb/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rikdevweb/rikdevweb/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rikdevweb/rikdevweb/output/github-contribution-grid-snake-dark.svg">
+</picture>
 <br><br>
 
-<!-- GITHUB STATS, STREAK & TOP LANGS -->
-<h3>📊 :: SYSTEM METRICS & ANALYSIS :: 📊</h3>
-<br>
-  
-<a href="https://github.com/rikdevweb">
-  <img src="https://github-readme-stats.vercel.app/api?username=rikdevweb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&cache_seconds=86400&v=3" alt="GitHub Stats" height="195"/>
-</a>
-<a href="https://github.com/rikdevweb">
-  <img src="https://streak-stats.demolab.com/?user=rikdevweb&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=C9D1D9&sideLabels=true&v=3" alt="GitHub Streak" height="195"/>
-</a>
-<br><br>
-<a href="https://github.com/rikdevweb">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikdevweb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&cache_seconds=86400&v=3" alt="Top Languages" height="195"/>
-</a>
-<a href="https://github.com/rikdevweb">
-  <img src="https://github-profile-trophy.vercel.app/?username=rikdevweb&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15&row=1&column=4&v=3" alt="GitHub Trophies" height="195" />
-</a>
-
-<br><br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- WAKATIME & GITHUB STATS -->
+<h3>📊 :: SYSTEM METRICS & TIME LOGS :: 📊</h3>
 <br>
 
-<!-- ENCRYPTED FOLDER (DROPDOWN) -->
-<h3>📁 :: ENCRYPTED LOGS (CLICK TO DECRYPT) :: 📁</h3>
-<details>
-  <summary style="color: #00FF41; cursor: pointer; font-family: 'Courier New', monospace; font-size: 16px; border: 1px solid #00FF41; padding: 10px; width: 300px; border-radius: 5px;"><b>[+] DECRYPT: user_goals.txt</b></summary>
-  <br>
-  <table border="1" bordercolor="#30363d" style="background-color: #0d1117; color: #C9D1D9; width: 95%; text-align: left; font-family: monospace;">
-    <tr>
-      <td style="padding: 15px;">
-        <span style="color: #ff7b72;">[CRITICAL]</span> 2024: Master React.js & Build 3 Complex Web Apps.<br><br>
-        <span style="color: #d2a8ff;">[SOCIAL]</span> Hit 10K+ Followers di TikTok (@himarusetup).<br><br>
-        <span style="color: #79c0ff;">[SECURITY]</span> Selesaikan module dasar OWASP Top 10 & TryHackMe.<br><br>
-        <span style="color: #00FF41;">[SYSTEM]</span> Push code ke GitHub setiap hari (Maintain Streak).
-      </td>
-    </tr>
-  </table>
-</details>
+<!-- WakaTime Stats (Membutuhkan akun WakaTime yang diset public) -->
+<a href="https://wakatime.com/@rikdevweb">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rikdevweb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="WakaTime Stats" height="195"/>
+</a>
+<a href="https://github.com/rikdevweb">
+  <img src="https://github-readme-stats.vercel.app/api?username=rikdevweb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="GitHub Stats" height="195"/>
+</a>
+<br><br>
+<a href="https://github.com/rikdevweb">
+  <img src="https://streak-stats.demolab.com/?user=rikdevweb&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=C9D1D9&sideLabels=true" alt="GitHub Streak" height="195"/>
+</a>
+<a href="https://github.com/rikdevweb">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikdevweb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Top Languages" height="195"/>
+</a>
 
 <br><br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -125,7 +112,6 @@
 
 <!-- CONTACT & SOCIALS -->
 <h3>📡 :: ESTABLISH CONNECTION :: 📡</h3>
-<p>Ping sistem saya jika ingin berkolaborasi, diskusi soal tech/security, atau sekadar menyapa!</p>
 <br>
 
 <a href="https://tiktok.com/@himarusetup" target="_blank"><img src="https://img.shields.io/badge/TikTok-%40himarusetup-000000?style=for-the-badge&logo=tiktok&logoColor=00FF41" /></a>
