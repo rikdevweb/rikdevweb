@@ -13,7 +13,7 @@
 
 <!-- TERMINAL INTERACTIVE BOX -->
 <div align="center">
-  <table border="1" bordercolor="#00FF41" style="background-color: #0d1117; color: #00FF41; width: 90%; text-align: left; font-family: 'Courier New', Courier, monospace; border-radius: 12px; box-shadow: 0 0 15px rgba(0, 255, 65, 0.2);">
+  <table border="1" bordercolor="#00FF41" style="background-color: #0d1117; color: #00FF41; width: 90%; text-align: left; font-family: 'Courier New', Courier, monospace; border-radius: 12px;">
     <tr>
       <td style="padding: 20px;">
         <p style="color: #8b949e;"><code>// system_config.sh</code></p>
@@ -35,43 +35,29 @@
 <div align="center">
   <h3>🛠️ :: TECH ARSENAL & SECURITY TOOLS :: 🛠️</h3>
   <br>
-  <!-- TECH ICONS -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,linux,bash,git,github,vscode,kali,python,vim&theme=dark" alt="Tech Stack" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,linux,bash,git,github,vscode,kali,python,vim&theme=dark" alt="Tech Stack" />
 </div>
 
 <br>
-<hr style="border: 0; height: 1px; background: #00FF41; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #00FF41, rgba(0, 0, 0, 0));">
+<hr style="border: 0; height: 1px; background: #00FF41;">
 <br>
 
-<!-- GITHUB STATS & TROPHIES SECTION -->
+<!-- GITHUB STATS SECTION (STABLE VERSION) -->
 <div align="center">
-  <h3>📊 :: SYSTEM METRICS & ACHIEVEMENTS :: 📊</h3>
+  <h3>📊 :: SYSTEM METRICS :: 📊</h3>
   <br>
   
-  <!-- GITHUB STATS -->
-  <a href="https://github.com/rikdevweb">
-    <img src="https://github-readme-stats.vercel.app/api?username=rikdevweb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="GitHub Stats" />
-  </a>
+  <!-- STATS -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rikdevweb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="GitHub Stats" />
   
   <br><br>
 
-  <!-- GITHUB STREAK & TROPHY -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikdevweb&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=C9D1D9" alt="GitHub Streak" />
-  </div>
-
-  <br>
-
-  <!-- GITHUB TROPHY -->
-  <a href="https://github.com/rikdevweb">
-    <img src="https://github-profile-trophy.vercel.app/?username=rikdevweb&theme=matrix&no-bg=true&margin-w=5&margin-h=5" alt="GitHub Trophy" />
-  </a>
+  <!-- STREAK -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikdevweb&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <br>
-<hr style="border: 0; height: 1px; background: #00FF41; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #00FF41, rgba(0, 0, 0, 0));">
+<hr style="border: 0; height: 1px; background: #00FF41;">
 <br>
 
 <!-- CONTACT & SOCIALS -->
