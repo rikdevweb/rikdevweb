@@ -102,23 +102,20 @@
 </picture>
 <br><br>
 
-<!-- WAKATIME & GITHUB STATS -->
-<h3>📊 :: SYSTEM METRICS & TIME LOGS :: 📊</h3>
+<!-- GITHUB STATS (WAKATIME DIHAPUS AGAR STABIL) -->
+<h3>📊 :: SYSTEM METRICS & ANALYSIS :: 📊</h3>
 <br>
-<a href="https://wakatime.com/@rikdevweb">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rikdevweb&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="WakaTime Stats" height="195"/>
+  
+<a href="https://github.com/rikdevweb">
+  <img src="https://github-readme-stats.vercel.app/api?username=rikdevweb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&v=4" alt="GitHub Stats" height="195"/>
 </a>
 <a href="https://github.com/rikdevweb">
-  <img src="https://github-readme-stats.vercel.app/api?username=rikdevweb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="GitHub Stats" height="195"/>
+  <img src="https://streak-stats.demolab.com/?user=rikdevweb&theme=tokyonight&hide_border=true&background=050505&ring=00FF41&fire=00FF41&currStreakNum=C9D1D9&sideLabels=true&v=4" alt="GitHub Streak" height="195"/>
 </a>
 <br><br>
 <a href="https://github.com/rikdevweb">
-  <img src="https://streak-stats.demolab.com/?user=rikdevweb&theme=tokyonight&hide_border=true&background=050505&ring=00FF41&fire=00FF41&currStreakNum=C9D1D9&sideLabels=true" alt="GitHub Streak" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikdevweb&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00FF41&text_color=C9D1D9&v=4" alt="Top Languages" height="195"/>
 </a>
-<a href="https://github.com/rikdevweb">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikdevweb&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00FF41&text_color=C9D1D9" alt="Top Languages" height="195"/>
-</a>
-
 <br><br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 <br>
