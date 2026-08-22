@@ -10,21 +10,16 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-<!-- LIVE SYSTEM BADGES & SPOTIFY STATUS -->
+<!-- LIVE SYSTEM BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rikdevweb&style=for-the-badge&color=00ff41&label=SYSTEM+VISITORS" alt="Visitor Count" />
   <img src="https://img.shields.io/badge/SECURITY-LEVEL%3A_MAXIMUM-00FF41?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Security" />
   <img src="https://img.shields.io/badge/NETWORK-ENCRYPTED-00FF41?style=for-the-badge&logo=wireguard&logoColor=black" alt="Network" />
 </p>
-
-<!-- GANTI "YOUR_SPOTIFY_ID" DENGAN ID SPOTIFY KAMU JIKA INGIN MENGGUNAKAN FITUR INI, JIKA TIDAK, HAPUS BARIS INI -->
-<p align="center">
-  <a href="https://spotify.com"><img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novnc&bar_color=00ff41&bar_color_cover=false" alt="Spotify Live Status" /></a>
-</p>
 <br>
 
 <!-- ADVANCED TERMINAL SIMULATOR WITH DIRECTORY TREE -->
-  <table border="1" bordercolor="#00FF41" style="background-color: #0d1117; color: #00FF41; width: 95%; text-align: left; font-family: 'Courier New', Courier, monospace; border-radius: 12px; box-shadow: 0 0 25px rgba(0, 255, 65, 0.3);">
+  <table border="1" bordercolor="#00FF41" style="background-color: #050505; color: #00FF41; width: 95%; text-align: left; font-family: 'Courier New', Courier, monospace; border-radius: 12px; box-shadow: 0 0 25px rgba(0, 255, 65, 0.4);">
     <tr>
       <td style="padding: 25px;">
         <p style="color: #8b949e; margin-bottom: 5px;"><code>// system_exec --init /home/rikdevweb/profile.sh</code></p>
@@ -52,19 +47,49 @@
 <!-- COMPREHENSIVE TECH ARSENAL -->
 <h3>⚙️ :: TECH ARSENAL & CYBER WEAPONS :: ⚙️</h3>
 <br>
-
 <b>🌐 FRONT-END & DESIGN PROTOCOLS</b><br><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite,figma&theme=dark" alt="Frontend Stack" />
 <br><br>
-
 <b>🛡️ SECURITY, PENTEST & OS</b><br><br>
 <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,python,bash,regex,powershell&theme=dark" alt="Security Stack" />
 <br><br>
-
 <b>🛠️ DEV TOOLS & INFRASTRUCTURE</b><br><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,nodejs,npm,mysql,vercel&theme=dark" alt="Tools Stack" />
 <br><br>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br>
+
+<!-- ========================================== -->
+<!-- 🕹️ NEW: CYBER-ARCADE (JS MINI GAMES) 🕹️  -->
+<!-- ========================================== -->
+<h3>🕹️ :: CYBER-ARCADE (JS LAUNCHER) :: 🕹️</h3>
+<p><i>Execute JavaScript modules below to test system stability (Hosted externally).</i></p>
+<table border="1" bordercolor="#00FF41" style="background-color: #050505; color: #00FF41; width: 95%; text-align: center; font-family: 'Courier New', Courier, monospace; border-radius: 8px;">
+  <tr>
+    <td style="padding: 15px; width: 20%;">
+      <span style="font-size: 24px;">🏓</span><br><br><b>NEON PONG</b><br>
+      <a href="#" style="color: #FF71CE; text-decoration: none;"><b>[ INITIATE ]</b></a>
+    </td>
+    <td style="padding: 15px; width: 20%;">
+      <span style="font-size: 24px;">🐍</span><br><br><b>SNAKE.JS</b><br>
+      <a href="#" style="color: #FF71CE; text-decoration: none;"><b>[ INITIATE ]</b></a>
+    </td>
+    <td style="padding: 15px; width: 20%;">
+      <span style="font-size: 24px;">🧠</span><br><br><b>MEMORY HACK</b><br>
+      <a href="#" style="color: #FF71CE; text-decoration: none;"><b>[ INITIATE ]</b></a>
+    </td>
+    <td style="padding: 15px; width: 20%;">
+      <span style="font-size: 24px;">🧱</span><br><br><b>TETRIS BYPASS</b><br>
+      <a href="#" style="color: #FF71CE; text-decoration: none;"><b>[ INITIATE ]</b></a>
+    </td>
+    <td style="padding: 15px; width: 20%;">
+      <span style="font-size: 24px;">🦖</span><br><br><b>DINO RUN</b><br>
+      <a href="#" style="color: #FF71CE; text-decoration: none;"><b>[ INITIATE ]</b></a>
+    </td>
+  </tr>
+</table>
+<br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 <br>
 
@@ -80,20 +105,18 @@
 <!-- WAKATIME & GITHUB STATS -->
 <h3>📊 :: SYSTEM METRICS & TIME LOGS :: 📊</h3>
 <br>
-
-<!-- WakaTime Stats (Membutuhkan akun WakaTime yang diset public) -->
 <a href="https://wakatime.com/@rikdevweb">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rikdevweb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="WakaTime Stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rikdevweb&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="WakaTime Stats" height="195"/>
 </a>
 <a href="https://github.com/rikdevweb">
-  <img src="https://github-readme-stats.vercel.app/api?username=rikdevweb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="GitHub Stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rikdevweb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="GitHub Stats" height="195"/>
 </a>
 <br><br>
 <a href="https://github.com/rikdevweb">
-  <img src="https://streak-stats.demolab.com/?user=rikdevweb&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=C9D1D9&sideLabels=true" alt="GitHub Streak" height="195"/>
+  <img src="https://streak-stats.demolab.com/?user=rikdevweb&theme=tokyonight&hide_border=true&background=050505&ring=00FF41&fire=00FF41&currStreakNum=C9D1D9&sideLabels=true" alt="GitHub Streak" height="195"/>
 </a>
 <a href="https://github.com/rikdevweb">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikdevweb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Top Languages" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikdevweb&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00FF41&text_color=C9D1D9" alt="Top Languages" height="195"/>
 </a>
 
 <br><br>
@@ -102,7 +125,7 @@
 
 <!-- SUPPORT & FUNDING (SOCIABUZZ ADDED) -->
 <h3>☕ :: FUEL THE MAINFRAME :: ☕</h3>
-<p>Suka dengan konten dan project saya? Dukung "sistem" ini agar terus berjalan!</p>
+<p>Sistem ini membutuhkan energi. Dukung "sistem" ini agar terus beroperasi secara optimal!</p>
 <br>
 <a href="https://sociabuzz.com/himaruofficialgaming" target="_blank">
   <img src="https://img.shields.io/badge/SUPPORT_MY_GEAR-SociaBuzz-FFDD00?style=for-the-badge&logo=coffeescript&logoColor=black" alt="SociaBuzz Support" />
@@ -113,7 +136,6 @@
 <!-- CONTACT & SOCIALS -->
 <h3>📡 :: ESTABLISH CONNECTION :: 📡</h3>
 <br>
-
 <a href="https://tiktok.com/@himarusetup" target="_blank"><img src="https://img.shields.io/badge/TikTok-%40himarusetup-000000?style=for-the-badge&logo=tiktok&logoColor=00FF41" /></a>
 <a href="mailto:irik.iinhere@gmail.com"><img src="https://img.shields.io/badge/Email-irik.iinhere%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/rikdevweb" target="_blank"><img src="https://img.shields.io/badge/GitHub-rikdevweb-181717?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
